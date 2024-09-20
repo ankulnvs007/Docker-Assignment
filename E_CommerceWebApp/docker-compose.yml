@@ -1,0 +1,31 @@
+version: '3.4'
+
+services:
+  product.api:
+    image: productapi
+    build:
+      context: .
+      dockerfile: Product.API/Dockerfile  # Reference the Product API Dockerfile
+    ports:
+      - "5001:80"  # Expose port 5001 on the host, mapped to port 80 in the container
+    networks:
+      - mynetwork
+    environment:
+      - ASPNETCORE_URLS=http://+:80  # Ensure ASP.NET listens on the right port inside the container
+
+  user.api:
+    image: userapi
+
+    build:
+      context: .
+      dockerfile: User.API/Dockerfile  # Reference the User API Dockerfile
+    ports:
+      - "5002:80"  # Expose port 5002 on the host, mapped to port 80 in the container
+    networks:
+      - mynetwork
+    environment:
+      - ASPNETCORE_URLS=http://+:80  # Ensure ASP.NET listens on the right port inside the container
+
+networks:
+  mynetwork:
+    driver: bridge  # Use bridge network for internal communication

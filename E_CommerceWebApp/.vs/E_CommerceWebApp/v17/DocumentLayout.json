@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27408C7F-1139-4236-8974-6F33B98EB837}|docker-compose.dcproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{27408C7F-1139-4236-8974-6F33B98EB837}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\product.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|solutionrelative:product.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD7C10A-EDF7-4B5B-8461-04DC59A0D076}|User.API\\User.API.csproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\user.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD7C10A-EDF7-4B5B-8461-04DC59A0D076}|User.API\\User.API.csproj|solutionrelative:user.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\product.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|solutionrelative:product.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\product.api\\repositories\\irepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|solutionrelative:product.api\\repositories\\irepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\product.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|solutionrelative:product.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\product.api\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|solutionrelative:product.api\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\product.api\\data\\dbcontexts\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|solutionrelative:product.api\\data\\dbcontexts\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\product.api\\product.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|solutionrelative:product.api\\product.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\product.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|solutionrelative:product.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD7C10A-EDF7-4B5B-8461-04DC59A0D076}|User.API\\User.API.csproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\user.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7FD7C10A-EDF7-4B5B-8461-04DC59A0D076}|User.API\\User.API.csproj|solutionrelative:user.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD7C10A-EDF7-4B5B-8461-04DC59A0D076}|User.API\\User.API.csproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\user.api\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD7C10A-EDF7-4B5B-8461-04DC59A0D076}|User.API\\User.API.csproj|solutionrelative:user.api\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27408C7F-1139-4236-8974-6F33B98EB837}|docker-compose.dcproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27408C7F-1139-4236-8974-6F33B98EB837}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27408C7F-1139-4236-8974-6F33B98EB837}|docker-compose.dcproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27408C7F-1139-4236-8974-6F33B98EB837}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\product.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2063438B-7D68-45D9-8846-48C60981758F}|Product.API\\Product.API.csproj|solutionrelative:product.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD7C10A-EDF7-4B5B-8461-04DC59A0D076}|User.API\\User.API.csproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\user.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FD7C10A-EDF7-4B5B-8461-04DC59A0D076}|User.API\\User.API.csproj|solutionrelative:user.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD7C10A-EDF7-4B5B-8461-04DC59A0D076}|User.API\\User.API.csproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\user.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD7C10A-EDF7-4B5B-8461-04DC59A0D076}|User.API\\User.API.csproj|solutionrelative:user.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD7C10A-EDF7-4B5B-8461-04DC59A0D076}|User.API\\User.API.csproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\user.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD7C10A-EDF7-4B5B-8461-04DC59A0D076}|User.API\\User.API.csproj|solutionrelative:user.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD7C10A-EDF7-4B5B-8461-04DC59A0D076}|User.API\\User.API.csproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\user.api\\repositories\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD7C10A-EDF7-4B5B-8461-04DC59A0D076}|User.API\\User.API.csproj|solutionrelative:user.api\\repositories\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD7C10A-EDF7-4B5B-8461-04DC59A0D076}|User.API\\User.API.csproj|c:\\users\\ankulrathour\\onedrive - nagarro\\desktop\\nagarro - docker \u0026 kubernetes\\docker assignment\\e_commercewebapp\\user.api\\data\\dbcontexts\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD7C10A-EDF7-4B5B-8461-04DC59A0D076}|User.API\\User.API.csproj|solutionrelative:user.api\\data\\dbcontexts\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Product.API\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Product.API\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAcwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:34:29.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\User.API\\Program.cs",
+              "RelativeDocumentMoniker": "User.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\User.API\\Program.cs",
+              "RelativeToolTip": "User.API\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:46:38.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Program.cs",
+              "RelativeDocumentMoniker": "Product.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Program.cs",
+              "RelativeToolTip": "Product.API\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:27:18.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-17T10:12:17.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Repositories\\IRepositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Product.API\\Repositories\\IRepositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Repositories\\IRepositories\\IProductRepository.cs",
+              "RelativeToolTip": "Product.API\\Repositories\\IRepositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:34:46.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Product.API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAUwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:27:55.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Product.API\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Product.API\\Models\\ProductModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:28:40.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Data\\DbContexts\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Product.API\\Data\\DbContexts\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Data\\DbContexts\\ProductDbContext.cs",
+              "RelativeToolTip": "Product.API\\Data\\DbContexts\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:29:28.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.API.csproj",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Product.API.csproj",
+              "RelativeDocumentMoniker": "Product.API\\Product.API.csproj",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Product.API.csproj",
+              "RelativeToolTip": "Product.API\\Product.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T10:44:16.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\User.API\\Dockerfile",
+              "RelativeDocumentMoniker": "User.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\User.API\\Dockerfile",
+              "RelativeToolTip": "User.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-17T10:08:17.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Product.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Dockerfile",
+              "RelativeToolTip": "Product.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-17T10:08:01.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\User.API\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "User.API\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\User.API\\Models\\UserModel.cs",
+              "RelativeToolTip": "User.API\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:49:16.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T10:34:36.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-17T10:18:56.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\User.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "User.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\User.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "User.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T10:00:03.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Product.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\Product.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Product.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T09:59:28.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\User.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "User.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\User.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "User.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:54:56.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\User.API\\Data\\DbContexts\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "User.API\\Data\\DbContexts\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\User.API\\Data\\DbContexts\\UserDbContext.cs",
+              "RelativeToolTip": "User.API\\Data\\DbContexts\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:51:26.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\User.API\\Repositories\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "User.API\\Repositories\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\User.API\\Repositories\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "User.API\\Repositories\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:51:03.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\User.API\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "User.API\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ankulrathour\\OneDrive - Nagarro\\Desktop\\Nagarro - Docker \u0026 Kubernetes\\Docker Assignment\\E_CommerceWebApp\\User.API\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "User.API\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:50:45.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
